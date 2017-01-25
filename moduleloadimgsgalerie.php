@@ -1,11 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
 
-</head>
-<body>
 
       
 
@@ -103,11 +96,3 @@ $reponse->closeCursor(); // Termine le traitement de la requête
             
         </div>    
     </div>    
-
-      
-
-<!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-<!-- Include all compiled plugins (below), or include individual files as needed -->
-
-</body>
-</html>
